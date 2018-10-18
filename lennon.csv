@@ -1,0 +1,303 @@
+,acousticness,album,album_id,album_release,artist,danceability,energy,feature,key,loudness,tempo,track_id,track_name,valence
+0,0.907,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.547,0.257,No Feature,0.0,-12.358,75.752,7pKfPomDEeI4TPT6EOYjn9,Imagine - Remastered 2010,0.169
+1,0.313,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.669,0.511,No Feature,0.0,-11.016,82.865,4NjyI3qjCRv3XZXgcISc8E,Watching The Wheels - 2010 Digital Remaster,0.398
+2,0.29,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.632,0.556,No Feature,9.0,-10.138,104.996,3ntrdR24dLkKrzSGRv1FlH,Stand By Me - 2010 - Remaster,0.633
+3,0.378,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.588,0.656,No Feature,3.0,-6.373,79.701,0GGxVTb0UwDwdaKNjBdCn3,Woman - 2010 - Remaster,0.746
+4,0.299,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.587,0.842,No Feature,1.0,-10.463,85.297,2pNwQBjJppt8v3sZojH1aj,Oh Yoko! - Remastered 2010,0.794
+5,0.292,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.409,0.833,No Feature,4.0,-9.994,132.233,3QmUhaY5KZiOuaUH8H71LG,Mind Games - 2010 - Remaster,0.428
+6,0.877,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.489,0.389,The Plastic Ono Band,4.0,-11.653,131.366,3D9iV6cYkYJRAPFO6DRKIE,Jealous Guy - Remastered 2010,0.254
+7,0.538,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.684,0.21,No Feature,1.0,-18.204,83.383,4bN43jYf41eIjJZ3UXQpuA,Hold On - Remastered 2010,0.681
+8,0.728,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.484,0.165,No Feature,7.0,-18.568,159.162,1yKQBy7olMIqRpziyAzf8c,Working Class Hero - Remastered 2010 / Lennon Legend Version,0.193
+9,0.0744,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.406,0.597,No Feature,0.0,-11.745,115.474,4ZVWvCUwsOnIGmJMj71RkG,#9 Dream - 2010 - Remaster,0.478
+10,0.000899,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.624,0.931,No Feature,11.0,-9.988,119.887,2E9wKgL8NN7Tvydqcjoh7v,Instant Karma! (We All Shine On) - 2010 - Remaster,0.14
+11,0.733,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.574,0.469,No Feature,2.0,-11.53,111.378,5URfZHMlUWTWxPvvSBWcPk,Beautiful Boy (Darling Boy) - 2010 Digital Remaster,0.435
+12,0.231,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.64,0.269,No Feature,4.0,-13.435,112.801,7kipZd4tWx6Mu8kBgB2Z2r,God - Remastered 2010,0.178
+13,0.013,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.532,0.347,No Feature,0.0,-13.696,135.935,43Ud1IajwtBvw6ONj6aK2Q,Mother - Remastered 2010,0.426
+14,0.909,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.571,0.0788,No Feature,2.0,-15.284,115.724,3sRQJYlA7P4oIRUwy8Im9r,Isolation - Remastered 2010,0.254
+15,0.985,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.529,0.104,No Feature,9.0,-19.669,135.235,0gDyuX5rdHulQTUyrIdSR1,Oh My Love - Remastered 2010,0.183
+16,0.537,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.644,0.436,No Feature,2.0,-10.14,111.874,752R2h0nzGsAacpFoXRKNB,Beautiful Boy (Darling Boy) - 2010 Remix,0.632
+17,0.106,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.561,0.783,No Feature,5.0,-8.878,133.518,3d2oiHuHm3rftzRDPeL5LU,Gimme Some Truth - Remastered 2010,0.768
+18,0.887,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.613,0.0609,No Feature,2.0,-21.297,80.988,0SEmf7XdvzCmmEjtpZKIKl,Love - Remastered 2010,0.156
+19,0.531,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.574,0.853,No Feature,2.0,-9.157,126.313,49nBXQzYNyjoBmUda3ezMf,Whatever Gets You Thru The Night - 2010 - Remaster,0.755
+20,0.193,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.545,0.608,No Feature,0.0,-9.372,165.617,5CG4RXjli90Zd1KDalPqeK,Crippled Inside - Remastered 2010,0.681
+21,0.177,Milk And Honey,1HRCspKjuNI3bGzZgvFU3y,1984-01-27,John Lennon,0.712,0.936,No Feature,2.0,-4.246,118.425,31QuJZfFiMk1uOawow8ejS,Nobody Told Me - 2010 - Remaster,0.917
+22,0.301,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.701,0.79,No Feature,9.0,-6.16,99.104,7tqQI7nmRAqX0g8bIYDXmF,(Just Like) Starting Over - 2010 Digital Remaster,0.421
+23,0.319,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.328,0.607,The Harlem Community Choir,2.0,-11.076,146.539,3zJw3rugfpVrmBeDDnUYzy,Happy Xmas (War Is Over) - Remastered,0.395
+24,0.408,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.607,0.612,No Feature,0.0,-8.666,82.933,4fKhRRYn7F5shZItjJkPJU,Watching The Wheels - 2010 - Remaster,0.272
+25,0.301,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.701,0.79,No Feature,9.0,-6.16,99.104,5y0YreEOnQiKFAnCrcFIXz,(Just Like) Starting Over - 2010 - Remaster,0.421
+27,0.859,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.484,0.0628,No Feature,6.0,-21.323,148.063,2yDEE5r9aIbSEWEgzfoFGu,Look At Me - Remastered 2010,0.347
+28,0.0217,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.576,0.672,No Feature,7.0,-11.526,181.116,1EYzr2S8PJmqUsRMkX3cSP,I Found Out - Remastered 2010,0.507
+29,0.0494,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.585,0.517,No Feature,9.0,-10.269,131.412,7xsr2OppItxPB4whucYr2G,How Do You Sleep? - Remastered 2010,0.714
+30,0.408,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.607,0.612,No Feature,0.0,-8.666,82.933,26Kw6zBo3Uy98q5LTlFfVJ,Watching The Wheels - 2010 Digital Remaster,0.272
+31,0.559,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.573,0.788,No Feature,2.0,-11.261,126.39,4eQPPN2uwGYd7CCRZY6lyt,Whatever Gets You Thru The Night - Remastered 2010,0.772
+34,0.34,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.508,0.544,No Feature,7.0,-8.311,146.082,2gVfoOOLlCPOYIQZFIwb97,Out The Blue - 2010 - Remaster,0.366
+35,0.0254,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.812,0.663,No Feature,2.0,-10.843,89.427,4IJovoHQkKgwmH9SzAKcB8,Remember - Remastered 2010,0.182
+36,0.313,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.681,0.709,No Feature,9.0,-8.541,99.14,3zx23Q4bcTPOHzrQLMKjsj,(Just Like) Starting Over - 2010 - Remaster,0.412
+37,0.0126,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.469,0.689,No Feature,4.0,-10.527,156.18,3ReOV0SALd6mcz8SCSZLGV,Well Well Well - Remastered 2010,0.527
+38,0.000769,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.625,0.934,The Plastic Ono Band,11.0,-9.984,119.933,2ZbFPXkcaYPq3tu1mLJkjk,Instant Karma! (We All Shine On) - 2010 Digital Remaster,0.142
+39,0.157,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.375,0.901,No Feature,4.0,-8.667,167.385,3BEqiYIPoWe7Rmveh4ZkkT,Bring On The Lucie (Freda Peeple) - 2010 - Remaster,0.85
+40,0.66,"""Fiction""",4gPpWZjXUvbrIacogrTKrl,2010-10-18,John Lennon,0.522,0.294,Paul McCartney,7.0,-9.242,174.148,0eCtJer01h42lZEKkAhQBK,Lennon / McCartney: Come together,0.541
+41,0.901,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.348,0.386,No Feature,0.0,-12.67,145.299,61ysSYtWOIz9SGuBEUsNkX,Old Dirt Road - 2010 - Remaster,0.187
+42,0.885,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.544,0.352,No Feature,7.0,-14.425,74.163,4k9pqSKBHYdTGjzNeRyQ0o,How? - Remastered 2010,0.206
+43,0.378,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.588,0.656,No Feature,3.0,-6.373,79.701,1BrbXIJ7b161oQ0PfC0K32,Woman - 2010 Digital Remaster,0.746
+44,0.00629,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.305,0.834,No Feature,4.0,-9.507,162.706,16euYyM9iFZqOk3p9bnsEW,I Don't Wanna Be A Soldier Mama - Remastered 2010,0.521
+45,0.0137,Imagine,0xzaemKucrJpYhyl7TltAk,1971-09-09,John Lennon,0.754,0.391,No Feature,2.0,-10.373,82.372,0YPyhXgtDks7BQozBSGCk4,It's So Hard - Remastered 2010,0.942
+46,0.824,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.376,0.328,No Feature,4.0,-15.37,153.881,0TtD0HQPII0gm4VYnm5l8r,Bless You - 2010 - Remaster,0.23
+47,0.973,Milk And Honey,1HRCspKjuNI3bGzZgvFU3y,1984-01-27,John Lennon,0.472,0.296,No Feature,7.0,-12.123,81.827,3baBQrWBX71zjKXVtVkvN6,Grow Old With Me - 2010 - Remaster,0.706
+48,0.292,Rushmore,51y8GkX3dW8djwGrttVTLe,1999,John Lennon,0.522,0.794,No Feature,1.0,-10.489,169.969,5mAuSPm8ZygJViGqQxKd48,Oh Yoko,0.834
+49,0.102,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.602,0.625,No Feature,0.0,-7.163,166.179,4PVxV1gls1hUZq4CUy7NWz,Watching The Wheels - 2010 Remix,0.462
+50,0.549,Funny People (Original Motion Picture Soundtrack),6zrPKpcz1dKsWWqQGICVrg,2009-01-01,John Lennon,0.566,0.358,No Feature,2.0,-10.857,86.932,1NxB4eYYVDYVobXznVZhYs,Watching The Wheels - Acoustic,0.375
+51,0.827,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.275,0.355,No Feature,2.0,-12.269,114.824,3Vt5QenAYmdNnDCp0DbsWM,Nobody Loves You (When You're Down And Out) - 2010 - Remaster,0.0778
+52,0.702,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.678,0.167,No Feature,4.0,-18.257,53.109,0VSD7UW1ADiDjYVWvQNQxo,Working Class Hero - 2010 - Remaster,0.172
+53,0.316,Milk And Honey,1HRCspKjuNI3bGzZgvFU3y,1984-01-27,John Lennon,0.744,0.94,No Feature,0.0,-3.973,131.876,2RczkdKFniMSJpr1P6ApaS,I'm Stepping Out - 2010 - Remaster,0.875
+54,0.161,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.565,0.778,No Feature,9.0,-5.868,102.196,2FK2Ht204zBNA7fNsZx50e,(Just Like) Starting Over - 2010 Remix,0.307
+55,0.237,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.256,0.773,No Feature,9.0,-9.182,108.501,6uKsrF9ejNeVy0lZvOQFdp,Woman Is The Nigger Of The World - Remastered 2010,0.302
+56,0.597,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.238,0.567,No Feature,7.0,-12.035,148.271,2YI0ctgGupauFkeolGZB6T,Steel And Glass - 2010 - Remaster,0.337
+57,0.0152,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.416,0.875,No Feature,4.0,-8.38,176.087,7dsHoB70SVyOUeZMNKwBJg,Tight A$ - 2010 - Remaster,0.964
+58,0.00497,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.613,0.704,The Plastic Ono Band,2.0,-9.369,113.154,1XT3v8CIGQ1pbbSOhv8sS4,Power To The People - 2010 Digital Remaster,0.746
+59,0.738,On Air - Live At The BBC (Vol.2),4On0Hf7VJC1jz5gXY2cU8p,2013-11-11,John Lennon,0.594,0.186,Brian Matthew,1.0,-19.332,57.825,5u5MSuBTlh364jDMzcyTWN,"John - Pop Profile - Live At The BBC / 30th November, 1965",0.819
+60,0.118,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.558,0.791,No Feature,5.0,-8.84,133.537,5Y2TIMXDuEhltqcJMklcPb,Gimme Some Truth - Remastered 2010,0.796
+61,0.891,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.551,0.229,No Feature,0.0,-13.647,75.789,0YFgBDWjCK50VBt4qYezbj,Imagine - Remastered 2010,0.164
+64,0.995,Plastic Ono Band,0DFYbYCcHCEJPcN1hODG6K,1970-12-11,John Lennon,0.599,0.0955,No Feature,9.0,-21.95,90.769,3cRTt4jCzcyRLe6nh6c5io,My Mummy's Dead - Remastered 2010,0.532
+65,0.373,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.588,0.509,No Feature,3.0,-11.091,79.664,6pamB5u8eq23E9vsgJ7b0c,Woman - 2010 Digital Remaster,0.743
+66,0.0506,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.68,0.777,No Feature,0.0,-6.045,95.37,7pbYVcByq72Azqa4BHDuNN,Cleanup Time - 2010 Remix,0.673
+67,0.126,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.686,0.701,No Feature,9.0,-6.738,97.716,0UPrJwM3KIQNMhyHCQIBt9,I'm Losing You - 2010 Digital Remaster,0.542
+68,0.582,Rocky Mountain High,26puZuYaa7mdM2Q24lBZ1s,1972,John Lennon,0.435,0.597,Paul McCartney,4.0,-9.911,98.015,3vav6aMd8WeBkQFSRX76Hd,Mother Nature's Son - Remastered,0.616
+69,0.255,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.327,0.651,No Feature,11.0,-9.727,145.615,4k7iUsc23W5mKvifOaYWP5,Happy Xmas (War Is Over) - 2010 Digital Remaster,0.395
+70,0.216,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.65,0.507,No Feature,3.0,-8.582,159.828,7C65Cntage9GWXjn0yUf0S,Woman - 2010 Remix,0.668
+71,0.286,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.63,0.515,No Feature,9.0,-11.243,105.013,3N2EZgm1u9cfxLIzkxcKz0,Stand By Me - Remastered 2010,0.64
+73,0.733,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.574,0.469,No Feature,2.0,-11.53,111.378,3F2vt4dgoY3NUqwrY5u2NO,Beautiful Boy (Darling Boy) - 2010 - Remaster,0.435
+74,0.0217,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.576,0.672,No Feature,7.0,-11.526,181.116,0xn3EBq5hDQK4Iw85DZVdV,I Found Out - 2010 - Remaster,0.507
+75,0.328,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.489,0.65,No Feature,9.0,-10.46,99.152,7Jz6VGZtcg8aWoeCJ8Dccn,(Just Like) Starting Over - 2010 Digital Remaster,0.426
+76,0.828,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.423,0.385,No Feature,8.0,-11.107,90.142,5FePQYEKacbmhPEMB2baOJ,One Day (At A Time) - 2010 - Remaster,0.274
+77,0.126,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.686,0.701,No Feature,9.0,-6.738,97.716,34Uw8BqBmiEHDV5v7qmRo9,I'm Losing You - 2010 - Remaster,0.542
+78,0.539,Milk And Honey,1HRCspKjuNI3bGzZgvFU3y,1984-01-27,John Lennon,0.917,0.74,No Feature,9.0,-5.618,116.194,11ymSOgiNDP1eNVd5e093p,Borrowed Time - 2010 - Remaster,0.967
+80,0.00587,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.628,0.556,The Plastic Ono Band,7.0,-12.146,115.02,67G7NofxDgcBnAhXDDq1Eu,Cold Turkey - Single Version,0.456
+81,0.63,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.514,0.358,No Feature,4.0,-8.453,128.076,5VOL5ppTyqMjxYRgso4RcI,Aisumasen (I'm Sorry) - 2010 - Remaster,0.106
+82,0.32,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.586,0.855,No Feature,4.0,-8.904,128.512,4JXnZwEWkv29Fc0m5nwkQn,Ain't That A Shame - 2010 - Remaster,0.963
+83,0.192,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.478,0.572,No Feature,9.0,-9.316,82.272,1iccGJjEIDE5HSJVoRAReY,I Know (I Know) - 2010 - Remaster,0.434
+84,0.335,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.408,0.723,No Feature,4.0,-12.15,132.298,3KparBynSUKlpBgCBKyu5N,Mind Games - Remastered 2010,0.53
+86,0.107,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.791,0.618,No Feature,9.0,-5.106,97.662,5xEPvudQ8HtZCl9y0FrtHT,I'm Losing You - 2010 Remix,0.583
+87,0.0576,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.411,0.538,No Feature,0.0,-13.801,115.497,5HwppoQEq181ztZKGXefcV,#9 Dream - Remastered 2010,0.478
+88,0.218,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.771,0.572,No Feature,2.0,-9.837,118.863,570g0E93XPrX0BNRJFhRe8,Intuition - 2010 - Remaster,0.903
+89,0.494,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.613,0.394,No Feature,4.0,-12.008,87.071,3T9xaNboOWcCRRCk6W2Bun,Going Down On Love - 2010 - Remaster,0.751
+90,0.32,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.657,0.713,No Feature,9.0,-6.799,95.259,6eJofUVk9ivGwORLGB2IzL,Cleanup Time - 2010 Digital Remaster,0.741
+91,0.276,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.63,0.837,No Feature,11.0,-10.307,102.871,7MVpa8fSnX7W1OLu31qYL3,What You Got - 2010 - Remaster,0.909
+92,0.223,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.549,0.442,No Feature,4.0,-12.55,93.863,3txeWb45milrut7f3B79Tr,You Are Here - 2010 - Remaster,0.545
+93,0.424,Double Fantasy,1NWA2fPLUAW5df7UGI5thp,1980-11-17,John Lennon,0.736,0.655,No Feature,9.0,-6.125,99.38,4DOotseelwjpEy2ofZy3Pe,Dear Yoko - 2010 Digital Remaster,0.885
+95,0.152,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.62,0.917,No Feature,9.0,-8.711,130.821,5yuryzTvAvj5hYVrlRs0FG,Be-Bop-A-Lula - 2010 - Remaster,0.961
+96,0.53,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.519,0.752,No Feature,0.0,-9.805,132.25,6jjqmp6WtkPIAmHhqhHYsC,Only People - 2010 - Remaster,0.882
+97,0.483,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.442,0.725,No Feature,9.0,-8.305,200.648,78oYNliMFdQzSN6QCfBX9T,Medley: Rip It Up/Ready Teddy - 2010 - Remaster,0.964
+99,0.872,Power To The People - The Hits,7mXg4fLJHmmnjAahH15Wsj,2010-10-04,John Lennon,0.489,0.34,The Plastic Ono Band,7.0,-14.032,131.516,7C2uNHOfIYP9XH7ist0iAl,Jealous Guy - Remastered 2010,0.295
+100,0.0706,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.289,0.915,No Feature,9.0,-7.116,169.006,1xMyiK7PWLyGSumPizoYkK,You Can't Catch Me - 2010 - Remaster,0.632
+101,0.478,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.36,0.814,No Feature,4.0,-11.05,176.092,37iAwRhDNtpOQt3Vl0Ghkk,John Sinclair - Remastered 2010,0.72
+102,0.0117,Milk And Honey,1HRCspKjuNI3bGzZgvFU3y,1984-01-27,John Lennon,0.657,0.873,No Feature,9.0,-4.698,123.212,2xZhz0RxfD0FWKKX2DrEQp,I Don't Wanna Face It - 2010 - Remaster,0.767
+104,0.448,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.538,0.624,No Feature,9.0,-9.307,105.678,5X2scg2jvdsxpZT7eQUpHB,Surprise Surprise (Sweet Bird Of Paradox) - 2010 - Remaster,0.829
+106,0.954,On Air - Live At The BBC (Vol.2),4On0Hf7VJC1jz5gXY2cU8p,2013-11-11,John Lennon,0.715,0.302,George Harrison,6.0,-17.059,127.137,3xohbni06d89qSDGtITdlo,"Brian Bathtubes - Live At The BBC For ""Saturday Club"" / 21st December, 1963",0.795
+107,0.463,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.496,0.929,No Feature,9.0,-8.567,142.344,382oMDDcmsMXGqfiT9BbZF,New York City - Remastered 2010,0.941
+108,0.476,Milk And Honey,1HRCspKjuNI3bGzZgvFU3y,1984-01-27,John Lennon,0.929,0.631,No Feature,4.0,-7.483,122.572,3eo4UcNaWFW2ehMWKC4Flu,(Forgive Me) My Little Flower Princess - 2010 - Remaster,0.972
+109,0.0877,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.479,0.646,No Feature,7.0,-9.865,167.65,3el8dDBuehDuZIJr16tpqM,Do You Want To Dance - 2010 - Remaster,0.969
+110,0.48,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.46,0.81,No Feature,9.0,-8.791,149.901,4ZFQzC7ePd4b4jYHhCPBVZ,Peggy Sue - 2010 - Remaster,0.913
+111,0.00275,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.197,0.567,No Feature,4.0,-12.761,180.428,6g4yCs8FvfkI3H8F79VU8X,Just Because - 2010 - Remaster,0.524
+112,0.11,Mind Games,2GoiwFkRtErx0CHn6zaFJu,1973-10-29,John Lennon,0.474,0.92,No Feature,1.0,-8.818,116.176,5mROLKV9edAqJnof3ib0Sh,Meat City - 2010 - Remaster,0.571
+114,0.534,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.372,0.503,No Feature,9.0,-10.87,82.673,7wVNwIofWXgJ45kNrV9W9s,Scared - 2010 - Remaster,0.225
+115,0.19,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.414,0.9,No Feature,2.0,-9.091,160.187,1Ptzi2koe5Xvot5bltQrM1,Slippin' And Slidin' - 2010 - Remaster,0.96
+116,0.154,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.494,0.554,No Feature,9.0,-9.706,86.757,6xUXnpVHa8j0HbNnYRO4Ki,Medley: Bring It On Home To Me/Send Me Some Lovin' - 2010 - Remaster,0.544
+117,0.0809,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.545,0.807,No Feature,4.0,-9.068,113.822,69QewghAAIOOY7pWQEGaK0,Sweet Little Sixteen - 2010 - Remaster,0.962
+118,0.915,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.552,0.251,No Feature,0.0,-12.548,75.936,2xp6qbrEd1TAw98MCdOcsU,Imagine - 2010 - Remaster,0.203
+120,0.428,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.644,0.902,No Feature,2.0,-8.375,104.7,1LWWDTlTbH9fhEmOgECrD0,Bony Moronie - 2010 - Remaster,0.963
+121,0.247,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.652,0.286,No Feature,4.0,-13.057,112.39,6qskn4Weuv9vA9KTWiIHas,God - 2010 - Remaster,0.17
+122,0.907,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.547,0.257,No Feature,0.0,-12.358,75.752,6FB1DztAAnPJFhRFUOgHME,Imagine - 2010 - Remaster,0.169
+123,0.112,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.551,0.761,No Feature,5.0,-9.905,133.573,5No71bL5ZXgneVNvgSsf9h,Gimme Some Truth - 2010 - Remaster,0.816
+126,0.323,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.711,0.667,No Feature,9.0,-6.866,99.477,0z6lpW9XPry5iavTqpgbGe,Dear Yoko - 2010 Remix,0.876
+127,0.0314,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.443,0.634,No Feature,9.0,-12.677,115.003,0W0w5YP7Sy6nvSJV5DKfD8,Beef Jerky - 2010 - Remaster,0.435
+128,0.00722,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.613,0.7,No Feature,2.0,-9.305,113.221,6Yl1ImnhUxtvRsmujD2Qe3,Power To The People - 2010 - Remaster,0.755
+129,0.988,Togi,5MgDEF4OW82ar7u6KdjzAv,2012-01-01,John Lennon,0.29,0.151,Hideki Togi,0.0,-8.491,85.26,2aLGHfpGwW0iXFpNyRyxj5,Imagine,0.188
+130,0.833,Walls And Bridges,3n1j9GslH8h0jIx7NRUIX4,1974-09-26,John Lennon,0.766,0.306,No Feature,0.0,-16.765,90.76,6tDXGvdfGDopvU3A5pNtLn,Ya Ya - 2010 - Remaster,0.339
+132,0.112,Rock 'N' Roll,4D5tTcz72CXGPtzTabLTDY,1975-02-17,John Lennon,0.669,0.679,No Feature,5.0,-9.73,160.639,16WoPdBBCpsDXI4GNofVWq,Ya Ya - 2010 - Remaster,0.976
+133,0.000689,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.628,0.931,No Feature,9.0,-9.973,119.976,2BkXpZSvPoUDMLI2Xw9kAL,Instant Karma! (We All Shine On) - 2010 - Remaster,0.144
+134,0.604,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.72,0.426,No Feature,2.0,-14.825,114.693,3vMPQj1K2hMvQgC4yazkD6,Beautiful Boy (Darling Boy) - Home Recording,0.639
+136,0.013,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.532,0.347,No Feature,0.0,-13.696,135.935,70UWNN54D5KrVUBPtHUoDG,Mother - 2010 - Remaster,0.426
+137,0.284,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.556,0.833,No Feature,1.0,-10.702,85.181,1RX0sGFlP6GYbpJhyNDzKz,Oh Yoko! - 2010 - Remaster,0.806
+138,0.322,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.591,0.53,No Feature,0.0,-9.308,165.873,53U3UPj1mSzuDyAWrApJDF,Watching The Wheels - 2010 - Remaster,0.387
+139,0.989,Evocations,27RyQrHxpvzcTaT6buSUeW,2017-12-15,John Lennon,0.214,0.126,Paul McCartney,9.0,-20.785,107.227,170zNdKhz9QU5y6Np8jMXx,Because,0.0356
+143,0.362,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.587,0.514,No Feature,3.0,-10.677,79.735,03yBEpG8WmtKHjyqE30XX1,Woman - 2010 - Remaster,0.716
+144,0.408,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.607,0.612,No Feature,0.0,-8.666,82.933,77S7OayoAWIS5gfwEUa8Lf,Watching The Wheels - 2010 - Remaster,0.272
+145,0.85,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.168,0.322,Richard Rodgers,11.0,-11.743,111.742,3wv8VOv27dCx0r4rMAdM0x,You'll Never Walk Alone,0.049
+146,0.424,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.736,0.655,No Feature,9.0,-6.125,99.38,6Ux4atjtjSCvtW27UCFj7d,Dear Yoko - 2010 - Remaster,0.885
+147,0.0175,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.535,0.346,No Feature,0.0,-13.73,135.726,1hNwfx51TxWnnPbyhC14m7,Mother - 2010 - Remaster,0.437
+148,0.0636,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.411,0.596,No Feature,0.0,-11.711,115.52,2xu9SqaTeSIUkX59bCaXXV,#9 Dream - 2010 - Remaster,0.478
+149,0.146,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.7,0.863,No Feature,2.0,-8.537,118.389,1H2kd947CymlGpfuyBIzpg,Nobody Told Me - 2010 - Remaster,0.907
+152,0.728,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.484,0.165,No Feature,7.0,-18.568,159.162,6hVxwgQ754Wf4qinKVoNPL,Working Class Hero - 2010 - Remaster,0.193
+153,0.272,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.407,0.832,No Feature,4.0,-10.001,132.286,2pZ6k7ZBRO0jZPc2qM51Vg,Mind Games - 2010 - Remaster,0.44
+156,0.202,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.375,0.838,Yoko Ono,4.0,-9.643,178.408,7LCHVTGsMgCpWmt8VT4UYf,Sunday Bloody Sunday - Remastered 2010,0.819
+157,0.32,Double Fantasy Stripped Down,15q7N7Wo307mfjqR29NpjF,1980-11-17,John Lennon,0.657,0.713,No Feature,9.0,-6.799,95.259,5e56I1bedOl8RV2aGXxwPH,Cleanup Time - 2010 - Remaster,0.741
+158,0.882,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.392,0.188,No Feature,7.0,-13.751,81.017,5wO14EzcJEdnaDRmI35PEP,Grow Old With Me - Anthology Version,0.326
+159,0.287,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.631,0.549,No Feature,9.0,-10.168,105.013,37WzMq5brFYaV77HSXExGx,Stand By Me - 2010 - Remaster,0.642
+161,0.386,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.449,0.468,Yoko Ono,7.0,-10.201,143.181,4BC6olCmpkr5llu4SzsRq6,The Luck Of The Irish - Remastered 2010,0.637
+163,0.889,For The Stars,0fUffGylGjIiZQ3FOVzeqK,2001-01-01,John Lennon,0.593,0.169,Paul McCartney,7.0,-15.879,81.63,0zZYmoR3fRIUkcCuoHYbyy,For No One,0.411
+164,0.985,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.529,0.104,No Feature,9.0,-19.669,135.235,2lsGtMBrOBl4qm4xiMhwkh,Oh My Love - 2010 - Remaster,0.183
+165,0.983,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.524,0.111,No Feature,9.0,-19.583,135.564,1W8wSkACp7ANb5I5L8Wy1u,Oh My Love - 2010 - Remaster,0.167
+166,0.743,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.62,0.461,No Feature,2.0,-11.575,111.342,4VNJWe2HUodIGzNSJjk92c,Beautiful Boy (Darling Boy) - 2010 - Remaster,0.446
+167,0.531,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.576,0.841,No Feature,2.0,-9.204,126.303,7K10ZnQPtKPyy37Uq2xGo2,Whatever Gets You Thru The Night - 2010 - Remaster,0.764
+168,0.00765,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.622,0.638,No Feature,7.0,-9.647,114.99,1xG8GNKh97UcMAR1nTAKhQ,Cold Turkey - Single Version;2010 - Remaster,0.448
+169,0.177,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.712,0.936,No Feature,2.0,-4.246,118.425,31rR3NHN5ksi0haIGDxOPE,Nobody Told Me - 2010 - Remaster,0.917
+170,0.907,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.761,0.197,No Feature,2.0,-17.81,73.954,0QoTS1eoMAPvD0J1Xcunch,Love - Studio Outtake,0.309
+172,0.192,Classic Rock Christmas,6fWMI7wago7rUSySPlwv2F,2015-01-01,John Lennon,0.381,0.68,The Plastic Ono Band,2.0,-6.159,146.955,4hAkwE0k1MlzDoOIf9J8ty,Happy Xmas (War Is Over),0.587
+173,0.887,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.613,0.0609,No Feature,2.0,-21.297,80.988,1Qp0SFCmiNWYGz1dxr7ZrT,Love - 2010 - Remaster,0.156
+174,0.00665,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.392,0.805,No Feature,4.0,-10.536,80.67,0NRfr5QmLRk09D4E3SvmTf,I Don't Wanna Be A Soldier Mama I Don't Wanna Die - 2010 - Remaster,0.542
+175,0.534,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.685,0.215,No Feature,1.0,-17.77,83.403,6vApkzmJWAVQIktDprXg9P,Hold On - 2010 - Remaster,0.712
+176,0.301,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.701,0.79,No Feature,9.0,-6.16,99.104,0tpcbm5xmmbwkFdtUR6EN0,(Just Like) Starting Over - 2010 - Remaster,0.421
+177,0.733,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.574,0.469,No Feature,2.0,-11.53,111.378,5YpGGq0utl6nistQRJwX0z,Beautiful Boy (Darling Boy) - 2010 - Remaster,0.435
+179,0.184,The Futurist,49NKZopI1JLOPyVQlfHRkK,2004-11-22,John Lennon,0.561,0.444,Jon Anderson,2.0,-8.7,133.826,2WndWlTjnMgjFt7pAmQmq1,Your Move/Give Peace A Chance Medley,0.473
+182,0.213,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.509,0.827,No Feature,4.0,-9.612,88.763,2VKjiaN1QEdeLYjkIFmyjF,Sunday Bloody Sunday - 2010 - Remaster,0.836
+183,0.235,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.25,0.77,No Feature,9.0,-9.215,106.953,2vGMB2XUNBwP1HBuI34nUl,Woman Is The Nigger Of The World - 2010 - Remaster,0.308
+184,0.902,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.528,0.0852,No Feature,2.0,-15.185,59.782,1MDzt1nAOaQFAIzLLZiCAn,Isolation - 2010 - Remaster,0.234
+185,0.89,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.616,0.0785,No Feature,2.0,-18.919,81.009,1n9dnBfPUWxkVO7WHJ0c1p,Love - 2010 - Remaster,0.14
+186,0.292,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.409,0.833,No Feature,4.0,-9.994,132.233,1yTJxieQB3KzyGVmLI4Zig,Mind Games - 2010 - Remaster,0.428
+187,0.29,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.632,0.556,No Feature,9.0,-10.138,104.996,4LHowRX3mbFRRCEIGHHWUC,Stand By Me - 2010 - Remaster,0.633
+188,0.953,At Home With Friends,0h7QWWKIiYBSuOhe3DZIBy,2009-09-25,John Lennon,0.254,0.188,Paul McCartney,0.0,-14.746,175.056,593AeJHrDBA0AGaj5kxnTq,Eleanor Rigby,0.137
+189,0.907,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.248,0.181,Richard Rodgers,10.0,-16.146,83.182,0KAyoLAwCFpHstmEeKAPAp,Educating Rita,0.131
+190,0.853,Unfinished Music No. 1: Two Virgins,118I3ivtpJl7WVJ5ktlxJp,1968-11-29,John Lennon,0.511,0.0722,Yoko Ono,2.0,-23.058,141.881,5SZtve0VaV5e3GSpNZSdaC,Remember Love (Bonus Track),0.182
+191,0.877,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.489,0.389,The Plastic Ono Band,4.0,-11.653,131.366,6ExWaCiyLJpTIBALUSTF1i,Jealous Guy - 2010 - Remaster,0.254
+192,0.538,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.684,0.21,No Feature,1.0,-18.204,83.383,4RAnYoq7AZGTsWLsSPfUot,Hold On - 2010 - Remaster,0.681
+193,0.909,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.571,0.0788,No Feature,2.0,-15.284,115.724,2gHWYBlLkJupAvizrLWUep,Isolation - 2010 - Remaster,0.254
+194,0.231,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.64,0.269,No Feature,4.0,-13.435,112.801,0X1MCwHRMHGxNu5JSi7BTk,God - 2010 - Remaster,0.178
+195,0.0744,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.406,0.597,No Feature,0.0,-11.745,115.474,0rxxF5EhlDLGfXTOl3SU6w,#9 Dream - 2010 - Remaster,0.478
+196,0.0303,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.452,0.41,No Feature,0.0,-10.949,135.035,4fbFk2VbPkO4sEyjRKAFgq,Mother - Studio Outtake,0.416
+202,0.535,Summer Of '42,5qo2UPGkB063ZVhKPDtrsv,2005,John Lennon,0.325,0.409,Peter Nero,2.0,-11.805,140.695,4JK7J9wsUGHrVIzLzWRXsD,Love,0.255
+203,0.0626,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.519,0.812,Yoko Ono,9.0,-8.853,136.862,4DvuXVrffrerPGBTyJxaIJ,Attica State - Remastered 2010,0.752
+204,0.426,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.316,0.856,Yoko Ono,4.0,-9.806,115.399,2beOgJ4cFIptjURBopIXnK,Cold Turkey - Live,0.235
+205,0.613,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.235,0.563,No Feature,4.0,-11.985,148.673,3JpwlYJH8ZJXnjmWQuIpxJ,Steel And Glass - 2010 - Remaster,0.339
+206,0.0205,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.815,0.668,No Feature,2.0,-10.542,89.508,4QKpynSI5FwP0S7fbha168,Remember - 2010 - Remaster,0.195
+207,0.0223,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.724,0.667,No Feature,7.0,-11.526,91.086,2cbUdSe8ujPVbY1mPAFPpP,I Found Out - 2010 - Remaster,0.513
+208,0.378,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.588,0.656,No Feature,3.0,-6.373,79.701,09CtxmTEg37rChp6F5gIIx,Woman - 2010 - Remaster,0.746
+209,0.822,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.746,0.25,No Feature,4.0,-15.073,105.142,1xr5IfkPU9aB43ZJjaRRbj,"India, India - Home Recording",0.63
+210,0.983,Unfinished Music No. 2: Life With The Lions,0NDlrEsyJTxrYtxZRC5at1,1969-05-09,John Lennon,0.526,0.0509,Yoko Ono,1.0,-17.463,104.45,7auzCvfn20Nw6u3jEACvIa,No Bed for Beatle John,0.269
+211,0.991,Unfinished Music No. 2: Life With The Lions,0NDlrEsyJTxrYtxZRC5at1,1969-05-09,John Lennon,0.622,0.149,Yoko Ono,6.0,-19.301,144.596,30hcDPB7i1eldJ27z0fcIH,Song for John (Bonus Track),0.569
+215,0.193,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.545,0.608,No Feature,0.0,-9.372,165.617,72JjcUnZlP0xpRoKgptgR2,Crippled Inside - 2010 - Remaster,0.681
+216,0.0494,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.585,0.517,No Feature,9.0,-10.269,131.412,2KG6OQX7PCpp1HX6wj5P6E,How Do You Sleep? - 2010 - Remaster,0.714
+217,0.299,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.587,0.842,No Feature,1.0,-10.463,85.297,0DtGHQ7I4yUJrEOKNLcARg,Oh Yoko! - 2010 - Remaster,0.794
+218,0.0125,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.502,0.696,No Feature,4.0,-10.179,79.451,5fvKCaUkMjDhTwFOKHG7FW,Well Well Well - 2010 - Remaster,0.508
+219,0.863,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.276,0.349,No Feature,2.0,-12.272,113.718,6i1FeII3YmyxLuxFW9XpWm,Nobody Loves You (When You're Down And Out) - 2010 - Remaster,0.0697
+220,0.0378,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.578,0.51,No Feature,9.0,-10.477,131.43,5gmQWoMLWFLUk8KXmmmLEF,How Do You Sleep? - 2010 - Remaster,0.725
+221,0.528,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.27,0.69,No Feature,9.0,-10.502,136.556,3hJlpw1KJAUfnDtd9DpMYw,Here We Go Again - 2010 - Remaster,0.271
+222,0.359,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.635,0.424,No Feature,7.0,-10.673,111.531,6jE18SAWV8MaRTqK6aX19W,God - Studio Outtake,0.4
+224,0.669,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.283,0.255,Richard Rodgers,2.0,-15.135,133.783,48iRYdDbWxDOeEWs4Jr5ra,A Lancashire Overture,0.128
+225,0.866,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.482,0.382,The Plastic Ono Band,4.0,-11.944,131.124,5Nc7JPHNQZIFYXrO0h3hJz,Jealous Guy - 2010 - Remaster,0.268
+226,0.969,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.216,0.156,Richard Rodgers,0.0,-15.534,88.245,7kRejY3i7hUPQnO5MXF49a,Imagine,0.0421
+227,0.449,Children Of Men Original Motion Picture Soundtrack,5slAWBt1fq2mGEWb774WWw,2006-01-01,John Lennon,0.427,0.803,No Feature,4.0,-5.808,160.142,0E26zk6y9YPhD98H1GC1ke,Bring On The Lucie (Freda Peeple),0.896
+228,0.859,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.484,0.0628,No Feature,6.0,-21.323,148.063,09fQpSdFwQPXS4n7ADensn,Look At Me - 2010 - Remaster,0.347
+229,0.0116,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.652,0.797,No Feature,6.0,-7.935,123.22,7GZCNggvxIykG4vJuQ6b6K,I Don't Wanna Face It - 2010 - Remaster,0.812
+230,0.518,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.509,0.745,No Feature,0.0,-9.785,132.295,77Qi2knLO4pssRBVWyy4tM,Only People - 2010 - Remaster,0.891
+231,0.227,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.544,0.451,No Feature,4.0,-12.584,93.867,4VWf5dfmVVk8p1aNicA4gh,You Are Here - 2010 - Remaster,0.531
+232,0.278,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.507,0.456,No Feature,7.0,-11.562,146.119,4UzBZT8gLJQkafYTeH3ZLh,Out The Blue - 2010 - Remaster,0.382
+233,0.816,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.382,0.331,No Feature,4.0,-15.394,155.988,518vmXZJtQnWnfr67yKPLa,Bless You - 2010 - Remaster,0.227
+234,0.133,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.69,0.634,No Feature,9.0,-9.086,97.727,5EVUMEXfTvRDZiQdyeIbS6,I'm Losing You - 2010 - Remaster,0.605
+235,0.325,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.657,0.616,No Feature,9.0,-10.019,95.17,4aOG1Oqo6bn1Z6b12EIhaG,Cleanup Time - 2010 - Remaster,0.765
+236,0.181,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.635,0.606,No Feature,0.0,-9.555,82.34,1xA8rQUMAfKMrw9BqumKmt,Crippled Inside - 2010 - Remaster,0.65
+237,0.531,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.574,0.853,No Feature,2.0,-9.157,126.313,5p1F13ECZwdcK2DWBKM4PT,Whatever Gets You Thru The Night - 2010 - Remaster,0.755
+238,0.811,Perhaps Love,65j4KOS3LCCA41sd1EyUPU,1981,John Lennon,0.177,0.272,Paul McCartney,5.0,-14.158,180.864,5fHW1vSn8b1HhvBrPBLQSu,Yesterday,0.112
+239,0.478,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.36,0.814,No Feature,4.0,-11.05,176.092,1ZBHewISCXmOz0Ebz1YEl1,John Sinclair - 2010 - Remaster,0.72
+241,0.909,Unfinished Music No. 1: Two Virgins,118I3ivtpJl7WVJ5ktlxJp,1968-11-29,John Lennon,0.34,0.579,Yoko Ono,7.0,-11.48,134.695,0UkSPeViNjGpqbrm3EmBjk,Two Virgins: Side One,0.233
+242,0.0971,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.233,0.734,Yoko Ono,0.0,-9.247,76.737,5ZGNQlno0lrAHVAOmZeb5h,Angela - Remastered 2010,0.463
+243,0.816,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.367,0.223,Richard Rodgers,3.0,-15.746,127.43,5TOsDqQjv0P4SWb4pQ8lir,A Hard Day's Night,0.33
+245,0.736,Songs of Celebration & Love for Weddings and Other Happy Occasions,5hedlGOXCee8V69VU4maz9,1999,John Lennon,0.355,0.232,Julian & Fortune,7.0,-13.424,83.024,3dCqL719aLQARKPmAe52Hq,Grow Old Along With Me,0.139
+249,0.0254,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.812,0.663,No Feature,2.0,-10.843,89.427,60BiVw7Srhr2crsAWjToJG,Remember - 2010 - Remaster,0.182
+250,0.0126,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.469,0.689,No Feature,4.0,-10.527,156.18,4kQB18FLhfT4UKCVPEULH2,Well Well Well - 2010 - Remaster,0.527
+251,0.0794,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.473,0.923,No Feature,1.0,-8.802,116.232,485mONIjccUFoDfShYc6Jk,Meat City - 2010 - Remaster,0.624
+252,0.106,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.561,0.783,No Feature,5.0,-8.878,133.518,599oifGZcD1C2kAY2CnHEC,Gimme Some Truth - 2010 - Remaster,0.768
+253,0.889,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.549,0.34,No Feature,7.0,-14.555,73.812,6SaXKOKM31Z0DzA9kAt8YK,How? - 2010 - Remaster,0.195
+254,0.28,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.321,0.64,No Feature,2.0,-10.023,146.172,27RYrbL6S02LNVhDWVl38b,Happy Xmas (War Is Over) - 2010 Digital Remaster,0.414
+257,0.168,My Lives,5nWLdbqnLvx8z8vpzWuwcg,2005,John Lennon,0.454,0.843,Paul McCartney,7.0,-8.083,184.385,6znNZMqi8p1A43oq979e2q,I'll Cry Instead - Live,0.863
+259,0.944,Unfinished Music No. 2: Life With The Lions,0NDlrEsyJTxrYtxZRC5at1,1969-05-09,John Lennon,0.167,0.643,Yoko Ono,4.0,-9.259,102.233,40F9B2OfwaSi1agS5ynlsj,Cambridge 1969,0.0493
+260,0.531,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.369,0.831,Yoko Ono,2.0,-10.075,96.177,78PIaWlnkrcrWSUaiuX4ML,Well (Baby Please Don't Go) - Live,0.546
+261,0.994,Chilled Piano Vol.6,2VsBnzBue0VjFE2nXrA4hM,2015-03-13,John Lennon,0.506,0.0475,Paul McCartney,1.0,-20.873,113.039,2QzUyCbWibB1SFAgZO9Uxd,Across The Universe,0.198
+266,0.885,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.544,0.352,No Feature,7.0,-14.425,74.163,3SmG72m9vNL8kE1Q7ThTB5,How? - 2010 - Remaster,0.206
+267,0.237,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.256,0.773,No Feature,9.0,-9.182,108.501,16XfOG5aXKz37eCkyGrET0,Woman Is The Nigger Of The World - 2010 - Remaster,0.302
+268,0.338,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.747,0.832,No Feature,0.0,-9.264,131.856,44qnOfnkgnBtee77BfBCDJ,I'm Stepping Out - 2010 - Remaster,0.883
+269,0.434,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.498,0.932,No Feature,9.0,-8.531,142.273,30gUX0axUKzDq1KY6OyDJQ,New York City - 2010 - Remaster,0.94
+270,0.506,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.919,0.593,No Feature,9.0,-9.902,116.2,6O5yVtXshxPN2HuIzmLbBB,Borrowed Time - 2010 - Remaster,0.968
+271,0.87,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.491,0.1,No Feature,11.0,-17.944,147.763,2ksHvdGYJKmiHDITdFvsnc,Look At Me - 2010 - Remaster,0.309
+272,0.194,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.618,0.919,No Feature,9.0,-8.724,130.935,4SPC2crAxZWcfdLaN1WFLv,Be-Bop-A-Lula - 2010 - Remaster,0.96
+273,0.827,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.275,0.355,No Feature,2.0,-12.269,114.824,1E1krhyg6ZuOp3E4M6Ll0I,Nobody Loves You (When You're Down And Out) - 2010 - Remaster,0.0778
+274,0.315,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.494,0.882,No Feature,4.0,-8.76,81.474,3Pe7A1S5dc4ISba5yVUtyA,Hound Dog - Live;2010 - Remaster,0.733
+275,0.126,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.686,0.701,No Feature,9.0,-6.738,97.716,3XgGtrN0f3lqxg9OgP5P6r,I'm Losing You - 2010 - Remaster,0.542
+276,0.0079,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.632,0.624,No Feature,7.0,-10.003,115.058,644iGdZiRJX5L4N4Girzcy,Cold Turkey - Single Version;2010 - Remaster,0.43
+277,0.675,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.97,0.691,No Feature,2.0,-12.906,120.501,3UUhltrywjH9HX7CZFnUr9,Nobody Told Me - Home Recording,0.581
+282,0.804,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.404,0.224,Richard Rodgers,9.0,-16.142,115.771,1tu8JxJle1RCC0RP5QcKtc,A 'Scaffold' Tribute,0.328
+348,0.932,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.239,0.0647,Richard Rodgers,11.0,-21.508,115.731,0pXiOj7wDO0QgHJUjJbpzG,Easy Terms,0.0899
+353,0.995,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.599,0.0955,No Feature,9.0,-21.95,90.769,7qTVbxY8X8RZ9BjiHZgbar,My Mummy's Dead - 2010 - Remaster,0.532
+354,0.0137,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.754,0.391,No Feature,2.0,-10.373,82.372,7i6oHbXrABdQJq6sIHhO3m,It's So Hard - 2010 - Remaster,0.942
+355,0.00629,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.305,0.834,No Feature,4.0,-9.507,162.706,2ett6mweivSlyygsT1k2UJ,I Don't Wanna Be A Soldier Mama I Don't Wanna Die - 2010 - Remaster,0.521
+356,0.463,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.496,0.929,No Feature,9.0,-8.567,142.344,65U99sfxmQhVSybLf7uJDH,New York City - 2010 - Remaster,0.941
+357,0.386,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.449,0.468,No Feature,7.0,-10.201,143.181,1hCPrcsBw6TNUNxxz3MMon,The Luck Of The Irish - 2010 - Remaster,0.637
+358,0.995,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.591,0.109,No Feature,9.0,-20.49,90.554,0USKxatmvxu6bX0RbfrJzz,My Mummy's Dead - 2010 - Remaster,0.455
+359,0.157,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.375,0.901,No Feature,4.0,-8.667,167.385,5tBU42neZFyLLsTZDHHoKP,Bring On The Lucie (Freda Peeple) - 2010 - Remaster,0.85
+360,0.228,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.77,0.582,No Feature,2.0,-9.809,118.78,0NDiPXxsPR7Mcjd4NvpPb3,Intuition - 2010 - Remaster,0.874
+361,0.898,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.409,0.388,No Feature,0.0,-12.682,73.009,6ruxVOhMDDYRmyRyWDVR8K,Old Dirt Road - 2010 - Remaster,0.177
+362,0.523,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.37,0.509,No Feature,9.0,-10.92,82.826,6i8zelcsWwYnrwwd0QNZIS,Scared - 2010 - Remaster,0.222
+363,0.276,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.629,0.839,No Feature,11.0,-10.346,102.841,3bNCclb7kvABLxOeYuCsNj,What You Got - 2010 - Remaster,0.919
+364,0.34,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.508,0.544,No Feature,7.0,-8.311,146.082,6FmnwvMhw1cJjXAZFMTTp8,Out The Blue - 2010 - Remaster,0.366
+365,0.192,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.478,0.572,No Feature,9.0,-9.316,82.272,6cGElBofU1KGhWRgbj8SYC,I Know (I Know) - 2010 - Remaster,0.434
+366,0.07,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.288,0.911,No Feature,9.0,-7.098,168.935,0WA3ijliVPJ4u6g6cpU6vW,You Can't Catch Me - 2010 - Remaster,0.672
+367,0.332,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.582,0.866,No Feature,4.0,-8.897,128.55,30AOKKLikwkHdK6IkCDDQa,Ain't That A Shame - 2010 - Remaster,0.964
+368,0.498,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.456,0.799,No Feature,9.0,-8.787,149.865,6So93lvE9dI7P2X6IDgYi9,Peggy Sue - 2010 - Remaster,0.894
+369,0.168,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.493,0.551,No Feature,9.0,-9.667,86.752,7oiJbxOJhH6bvTYORQX7zN,Medley: Bring It On Home To Me/Send Me Some Lovin' - 2010 - Remaster,0.611
+370,0.973,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.472,0.296,No Feature,7.0,-12.123,81.827,6gF98JwevVqIDLpbq6Spwt,Grow Old With Me - 2010 - Remaster,0.706
+371,0.00691,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.612,0.694,No Feature,2.0,-9.326,113.159,7dTFUnfqXMqK3Qu0TjIIHC,Power To The People - 2010 - Remaster,0.739
+372,0.00571,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.718,0.623,No Feature,9.0,-12.514,156.962,44neoDfd4JofkmOai9kTMZ,Honey Don't - Studio Outtake,0.432
+373,0.993,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.557,0.273,No Feature,10.0,-12.796,108.594,4Bq5YgEgxjz8ycmku4hOZy,Serve Yourself - Home Recording,0.299
+376,0.954,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.181,0.117,Richard Rodgers,5.0,-18.234,110.758,4pXJzR6ke4Ka8usGlocq3K,Champions Suite: Opening Titles,0.0374
+377,0.917,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.39,0.192,Richard Rodgers,7.0,-17.808,120.807,3d0LWj68bkWVhlcZxFtZp2,Champions Suite: Kentucky Holiday,0.419
+378,0.977,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.169,0.0136,Richard Rodgers,4.0,-31.734,104.216,24MCBd7M4gVM2eh5InCshj,Champions Suite: Proposal,0.0372
+379,0.831,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.236,0.342,Richard Rodgers,3.0,-15.165,156.48,6ioWsGfU1RKDQPbVdec0LD,Champions Suite: Grand National,0.278
+380,0.973,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.0864,0.0547,Richard Rodgers,2.0,-22.471,81.943,4ov5zGj8L8AdCHdtPG8YyE,The Family Way,0.0572
+381,0.873,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.229,0.07,Richard Rodgers,0.0,-25.713,118.334,516acazcfiJxvZl2HaTqR3,A Liverpool Day,0.0394
+382,0.758,Liverpool Pops 'At Home',0a0amo5p1iEOQJ88duABga,1995-01-01,John Lennon,0.309,0.353,Richard Rodgers,5.0,-14.045,108.35,7v1QzxPFM5XswG3lZUBC1m,All Together Now,0.298
+423,0.853,"Beatles Baroque, Vol. 3",7fX44U3G67oLnkQ0LGxHQs,2006-01-01,John Lennon,0.336,0.0481,Les Boreades de Montreal,4.0,-27.623,77.424,2GD3bu5fOapVw3XLkUR8ut,Mother,0.186
+425,0.775,"Beatles Baroque, Vol. 3",7fX44U3G67oLnkQ0LGxHQs,2006-01-01,John Lennon,0.292,0.112,Paul McCartney,1.0,-21.079,77.488,04EVLmUdGXyI2pOSkhyjyx,Across The Universe,0.0973
+430,0.346,Masters of Chant: Chapter IV,3BtjS89s63odE6yw9cQ1gH,2010,John Lennon,0.305,0.539,Gregorian,1.0,-11.229,156.019,3tNEFAZBI9XsHPo6jF6BC1,Imagine,0.177
+431,0.0626,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.519,0.812,No Feature,9.0,-8.853,136.862,686GB8A4rnDqxFyAbyD8Gw,Attica State - 2010 - Remaster,0.752
+432,0.202,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.375,0.838,No Feature,4.0,-9.643,178.408,3N3JJE1X1QqFefAYCw6gkH,Sunday Bloody Sunday - 2010 - Remaster,0.819
+433,0.426,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.316,0.856,No Feature,4.0,-9.806,115.399,77FZ1PmS2mNjascU6dTeEw,Cold Turkey - Live;2010 - Remaster,0.235
+434,0.531,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.369,0.831,No Feature,2.0,-10.075,96.177,2ULfxJjio1eOR7XeAidtad,Well (Baby Please Don't Go) - Live;2010 - Remaster,0.546
+435,0.0152,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.416,0.875,No Feature,4.0,-8.38,176.087,3m7lKCKk4ISHkqsHwRkbHy,Tight A$ - 2010 - Remaster,0.964
+436,0.63,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.514,0.358,No Feature,4.0,-8.453,128.076,2sLRX1NHlkRN2C6M9ZPNKr,Aisumasen (I'm Sorry) - 2010 - Remaster,0.106
+437,0.828,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.423,0.385,No Feature,8.0,-11.107,90.142,0hcSbqWuGYHZVCcPF2qR4z,One Day (At A Time) - 2010 - Remaster,0.274
+438,0.218,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.771,0.572,No Feature,2.0,-9.837,118.863,4hdIr8UJyYCiMs5bXJ1hCv,Intuition - 2010 - Remaster,0.903
+439,0.467,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.56,0.613,No Feature,9.0,-10.371,103.231,12rMg1qmlOWXdJNZVj6XHW,Surprise Surprise (Sweet Bird Of Paradox) - 2010 - Remaster,0.923
+440,0.223,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.549,0.442,No Feature,4.0,-12.55,93.863,3oKGAqWaaiRxILpWVZGRIl,You Are Here - 2010 - Remaster,0.545
+441,0.522,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.432,0.735,No Feature,9.0,-8.328,200.581,3N2TUfuKTsI3oWfTbbDwhf,Medley: Rip It Up/Ready Teddy - 2010 - Remaster,0.967
+442,0.0131,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.413,0.872,No Feature,4.0,-8.35,176.391,5WoaKsCRZqJYj2zMA9bjiB,Tight A$ - 2010 - Remaster,0.963
+443,0.824,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.376,0.328,No Feature,4.0,-15.37,153.881,4wLDmIlO5u45OCxzkMkBCx,Bless You - 2010 - Remaster,0.23
+444,0.0866,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.544,0.804,No Feature,4.0,-9.026,113.867,1ROkVIZCcQ5QiOJhBW0j3X,Sweet Little Sixteen - 2010 - Remaster,0.96
+445,0.0904,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.473,0.644,No Feature,7.0,-9.836,167.768,3w5ARGCqveD5eCjuaRNEyf,Do You Want To Dance - 2010 - Remaster,0.972
+446,0.597,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.238,0.567,No Feature,7.0,-12.035,148.271,4GBUDhbkR8gneoYcknj2cu,Steel And Glass - 2010 - Remaster,0.337
+447,0.171,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.404,0.901,No Feature,2.0,-9.058,160.334,577tibIHKMuyhxbWnbY2UO,Slippin' And Slidin' - 2010 - Remaster,0.961
+448,0.00264,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.395,0.582,No Feature,4.0,-12.77,90.2,4R7bdcsBGTtS1Rz1ymxs0W,Just Because - 2010 - Remaster,0.548
+449,0.152,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.62,0.917,No Feature,9.0,-8.711,130.821,05hL3Is3EBqkupqdlrDsiq,Be-Bop-A-Lula - 2010 - Remaster,0.961
+450,0.442,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.643,0.897,No Feature,2.0,-8.342,104.699,7qHMFm3dzSPhulcGHBODXY,Bony Moronie - 2010 - Remaster,0.956
+451,0.0382,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.438,0.656,No Feature,9.0,-12.695,114.875,1ZTGgJIUw3bWYrMPM3P7e1,Beef Jerky - 2010 - Remaster,0.454
+452,0.117,Gimme Some Truth,1Og869cgT2qBmDw84KeUvk,2010-10-05,John Lennon,0.666,0.685,No Feature,5.0,-9.78,160.719,243OT5O8W0gOFrYovSeADS,Ya Ya - 2010 - Remaster,0.974
+453,0.32,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.586,0.855,No Feature,4.0,-8.904,128.512,6LIEVxf7CginV997hZd8nJ,Ain't That A Shame - 2010 - Remaster,0.963
+454,0.0877,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.479,0.646,No Feature,7.0,-9.865,167.65,3ui2596ocbAkClfc6jolw5,Do You Want To Dance - 2010 - Remaster,0.969
+455,0.48,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.46,0.81,No Feature,9.0,-8.791,149.901,5ohEYHTa6RIErzWZ772OfW,Peggy Sue - 2010 - Remaster,0.913
+456,0.154,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.494,0.554,No Feature,9.0,-9.706,86.757,20ETqpMOgn1zAlzk2xrTB2,Medley: Bring It On Home To Me/Send Me Some Lovin' - 2010 - Remaster,0.544
+457,0.00275,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.197,0.567,No Feature,4.0,-12.761,180.428,1mRPTHhrUimFuHMztzkmWu,Just Because - 2010 - Remaster,0.524
+458,0.424,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.736,0.655,No Feature,9.0,-6.125,99.38,1Sb7m2AJc3DlyHpLfnzY7q,Dear Yoko - 2010 - Remaster,0.885
+459,0.316,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.744,0.94,No Feature,0.0,-3.973,131.876,2LqMOAFSWqOwQ6oHKaqWHs,I'm Stepping Out - 2010 - Remaster,0.875
+460,0.539,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.917,0.74,No Feature,9.0,-5.618,116.194,68rgSRoIpZa7wv0vY782iB,Borrowed Time - 2010 - Remaster,0.967
+461,0.164,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.5,0.931,No Feature,4.0,-7.831,161.086,2ijHRr643f31GnagPYgcdE,Move Over Ms L - 2010 - Remaster,0.864
+462,0.0739,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.765,0.661,No Feature,7.0,-12.519,90.617,337o4FEi9lvcRliCAzjuet,I Found Out - Studio Outtake,0.584
+463,0.789,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.617,0.37,No Feature,7.0,-13.867,119.948,0dJaFWsdALE4eoUGmF6Sxk,One Of The Boys - Home Recording,0.413
+464,0.953,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.478,0.0559,No Feature,2.0,-17.055,179.92,5gp3z3M51REzUv395bSkvk,Isolation - Studio Outtake,0.15
+465,0.969,Signature Box,555NIhJIQ4XoS5N7VglF0v,2010-10-05,John Lennon,0.526,0.221,No Feature,2.0,-15.316,90.356,17EyNHYrVqvzBTY5W91Ie1,Remember - Studio Outtake,0.119
+467,0.978,1812,5WyiK9Qe5yMgXtI2vUarN8,1995-12-31,John Lennon,0.206,0.0174,Paul McCartney,8.0,-23.911,80.008,7pGyU4oUti2cML0UO0AHtS,Lennon / McCartney: Blackbird / I Will (Arr. for Chorus),0.0649
+468,0.978,Anthology,30a11Egk87a9J5UEaR1ngh,2009-08-24,John Lennon,0.206,0.0174,Paul McCartney,8.0,-23.911,80.008,6t7Cx5QgFrjfTddHM6i39h,Lennon / McCartney: Blackbird / I Will (Arr. for Chorus),0.0649
+469,0.153,"Beatles Baroque, Vol. 3",7fX44U3G67oLnkQ0LGxHQs,2006-01-01,John Lennon,0.489,0.146,Paul McCartney,8.0,-25.542,102.282,710EpBcs5dwmUeuiLRVWvM,In My Life,0.221
+470,0.803,"Beatles Baroque, Vol. 3",7fX44U3G67oLnkQ0LGxHQs,2006-01-01,John Lennon,0.332,0.133,Paul McCartney,8.0,-22.929,166.964,5iA0OS6Xjp83JyQArD9aip,I Want You,0.218
+471,0.926,Unfinished Music No. 1: Two Virgins,118I3ivtpJl7WVJ5ktlxJp,1968-11-29,John Lennon,0.319,0.36,Yoko Ono,8.0,-13.577,121.161,20NqoHchoFPgb2fdnJde5g,Two Virgins: Side Two,0.0508
+472,0.0171,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.146,0.82,Yoko Ono,4.0,-8.591,178.46,1Ue8Gv5jKT4L6ILd2kX0Ed,Don't Worry Kyoko - Live,0.171
+473,0.199,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.155,0.717,Yoko Ono,9.0,-12.571,79.124,2ZLimLr2ZJlwKdyuYmavEh,Jamrag - Live,0.238
+474,0.0879,Sometime In New York City,5SgeJIF8MrvVOm86sGN4bK,1972-06-12,John Lennon,0.298,0.756,Yoko Ono,2.0,-10.908,166.269,0fZV8zvUjAc32MMRBRZfG5,Scumbag - Live,0.407
